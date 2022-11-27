@@ -47,6 +47,8 @@ Hi, I don't know what to write here yet. As soon as I come up with it, I'll upda
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=old-man-lib&theme=dark&locale=ru)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=old-man-lib&show_icons=true&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=old-man-lib&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=old-man-lib&layout=compact&theme=vision-friendly-dark)](https://git.io/streak-stats)
+
+<h3 align="center">...the end...</h3>
